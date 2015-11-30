@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>头条</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=SYLB10,SYDT10,SYRECOMMEND&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>时政</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=SZPD,FOCUSSZPD&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>财经</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=CJ33,FOCUSCJ33&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>体育</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=TY43,FOCUSTY43&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>科技</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=KJ123,FOCUSKJ123&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>军事</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=JS83,FOCUSJS83&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>数码</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=SM66,FOCUSSM66&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>娱乐</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=YL53,FOCUSYL53&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>房产</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=FC81,FOCUSFC81&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>汽车</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=QC45,FOCUSQC45&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>萌物</key>
+	<string>http://api.iclient.ifeng.com/clientShortNews?type=pet&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>电影</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=DYPD&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>时尚</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=SS78,FOCUSSS78&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>图片</key>
+	<string>http://api.iclient.ifeng.com/get_pic_list?gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>国际</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=GJPD&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>暖新闻</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=NXWPD,FOCUSNXWPD&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>读书</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=DS57,FOCUSDS57&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>旅游</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=LY67,FOCUSLY67&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>健康</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=JK36,FOCUSJK36&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+	<key>游戏</key>
+	<string>http://api.iclient.ifeng.com/ClientNews?id=YX11,FOCUSYX11&amp;gv=4.6.5&amp;av=0&amp;proid=ifengnews&amp;os=ios_9.1&amp;vt=5&amp;screen=640x1136&amp;publishid=4002&amp;uid=0bb71368eed4b2cc165ab3f6f2b1e59d7f8847d9</string>
+</dict>
+</plist>
